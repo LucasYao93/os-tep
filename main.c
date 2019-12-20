@@ -1,14 +1,11 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <unistd.h>
-#include <sys/wait.h>
+#include "core.h"
 
 int sizeof_str();
 
 int main()
-
 {
-
+  
+  return 0;
 }
 
 int void_pointer(){
